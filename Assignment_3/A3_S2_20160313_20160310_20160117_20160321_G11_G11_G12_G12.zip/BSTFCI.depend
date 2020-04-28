@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1526047059 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\bstfci\main.cpp
+	<iostream>
+	<string>
+	"BSTFCI.h"
+	"BSTNode.h"
+
+1525983558 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\bstfci\src\bstnode.cpp
+
+1525984024 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\bstfci\src\bstfci.cpp
+
+1526047059 e:\faculty work\second year\second term\data structure\assignments\assign 3-4\bstfci\include\bstfci.h
+	"BSTNode.h"
+	<iostream>
+	<algorithm>
+
+1525983576 e:\faculty work\second year\second term\data structure\assignments\assign 3-4\bstfci\include\bstnode.h
+
+1526152965 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 2\main.cpp
+	<iostream>
+	<string>
+	"BSTFCI.h"
+	"BSTNode.h"
+
+1526152937 e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 2\include\bstfci.h
+	"BSTNode.h"
+	<iostream>
+	<algorithm>
+
+1525983576 e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 2\include\bstnode.h
+
+1525984024 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 2\src\bstfci.cpp
+
+1525983558 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 2\src\bstnode.cpp
+

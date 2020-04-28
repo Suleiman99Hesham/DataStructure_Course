@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1519830451 source:d:\damn\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1519832674 d:\damn\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrix.h
+	<bits/stdc++.h>
+
+1519833243 d:\damn\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrixcalculator.h
+	"Matrix.h"
+
+1519829710 source:d:\damn\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrix.cpp
+
+1519831129 source:d:\damn\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<iostream>
+	"Matrix.h"
+
+1519834369 source:d:\data structure\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1519832674 d:\data structure\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrix.h
+	<bits/stdc++.h>
+
+1519833243 d:\data structure\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrixcalculator.h
+	"Matrix.h"
+
+1519829710 source:d:\data structure\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrix.cpp
+
+1519834351 source:d:\data structure\a1_20160180_20160310_20160311\a1_p3_20160180_20160310_20160311\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<iostream>
+	"Matrix.h"
+

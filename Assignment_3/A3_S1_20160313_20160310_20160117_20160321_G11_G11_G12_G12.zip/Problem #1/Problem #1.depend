@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526156585 source:d:\data structure\assignment 3&4\problem #1\main.cpp
+	<iostream>
+	"Linkedlist.h"
+
+1526055282 source:d:\data structure\assignment 3&4\problem #1\linkedlist.cpp
+	"Linkedlist.h"
+
+1526156252 d:\data structure\assignment 3&4\problem #1\linkedlist.h
+	<stdexcept>
+

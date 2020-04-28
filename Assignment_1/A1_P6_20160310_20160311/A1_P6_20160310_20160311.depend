@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1518724438 source:d:\damn\assignment 1\a1_p6_20160310_20160311\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"StudentName.h"
+
+1518769015 source:d:\damn\assignment 1\a1_p6_20160310_20160311\studentname.cpp
+	"StudentName.h"
+	<bits/stdc++.h>
+	<string>
+
+1518724398 d:\damn\assignment 1\a1_p6_20160310_20160311\studentname.h
+	<string>
+
+1518724438 source:d:\damn\a1_20160310_20160311\a1_p6_20160310_20160311\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"StudentName.h"
+
+1518724398 d:\damn\a1_20160310_20160311\a1_p6_20160310_20160311\studentname.h
+	<string>
+
+1519807142 source:d:\damn\a1_20160310_20160311\a1_p6_20160310_20160311\studentname.cpp
+	"StudentName.h"
+	<bits/stdc++.h>
+	<string>
+

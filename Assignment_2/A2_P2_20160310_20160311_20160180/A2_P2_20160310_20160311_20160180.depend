@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1522524883 source:d:\damn\a2_p2_20160310_20160311_20160180\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Searcher.h"
+
+1522524422 d:\damn\a2_p2_20160310_20160311_20160180\searcher.h
+	<bits/stdc++.h>
+
+1522524479 source:d:\damn\a2_p2_20160310_20160311_20160180\searcher.cpp
+	"Searcher.h"
+	<bits/stdc++.h>
+

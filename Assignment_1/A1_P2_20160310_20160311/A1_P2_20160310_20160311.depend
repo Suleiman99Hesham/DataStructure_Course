@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1518792818 source:d:\damn\assignment 1\a1_p2_20160310_20160311\fraction.cpp
+	"Fraction.h"
+	<bits/stdc++.h>
+
+1518791122 d:\damn\assignment 1\a1_p2_20160310_20160311\fraction.h
+	<bits/stdc++.h>
+
+1518792516 source:d:\damn\assignment 1\a1_p2_20160310_20160311\main.cpp
+	<iostream>
+	"Fraction.h"
+
+1519837768 source:d:\data structure\a1_20160180_20160310_20160311\a1_p2_20160310_20160311\fraction.cpp
+	"Fraction.h"
+	<bits/stdc++.h>
+
+1518791122 d:\data structure\a1_20160180_20160310_20160311\a1_p2_20160310_20160311\fraction.h
+	<bits/stdc++.h>
+
+1519838086 source:d:\data structure\a1_20160180_20160310_20160311\a1_p2_20160310_20160311\main.cpp
+	<iostream>
+	"Fraction.h"
+	"FractionCalculator.h"
+
+1519836054 source:d:\data structure\a1_20160180_20160310_20160311\a1_p2_20160310_20160311\fractioncalculator.cpp
+	"FractionCalculator.h"
+
+1519836149 d:\data structure\a1_20160180_20160310_20160311\a1_p2_20160310_20160311\fractioncalculator.h
+	"Fraction.h"
+

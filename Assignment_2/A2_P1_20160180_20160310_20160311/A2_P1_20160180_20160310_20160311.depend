@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1522282989 source:d:\data structure\assignment 2\a2_p1_id1_id2\student.cpp
+	<iostream>
+	"Student.h"
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1522072419 d:\data structure\assignment 2\a2_p1_id1_id2\student.h
+	<string>
+	<vector>
+
+1522070415 source:d:\data structure\assignment 2\a2_p1_id1_id2\main.cpp
+	<iostream>
+	"Student.h"
+
+1522429790 source:d:\damn\ass2\a2_p1_id1_id2\main.cpp
+	<iostream>
+	"Student.h"
+
+1522072419 d:\damn\ass2\a2_p1_id1_id2\student.h
+	<string>
+	<vector>
+
+1522430397 source:d:\damn\ass2\a2_p1_id1_id2\student.cpp
+	<iostream>
+	"Student.h"
+	<string>
+	<vector>
+	<bits/stdc++.h>
+

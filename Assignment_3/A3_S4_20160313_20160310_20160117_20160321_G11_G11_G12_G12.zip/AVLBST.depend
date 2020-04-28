@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526157668 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 4\main.cpp
+	<iostream>
+	"AVLBST.h"
+	"Node.h"
+
+1526157522 e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 4\include\avlbst.h
+	"Node.h"
+	<algorithm>
+
+1526048855 e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 4\include\node.h
+	<iostream>
+
+1526044019 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 4\src\avlbst.cpp
+
+1526043844 source:e:\faculty work\second year\second term\data structure\assignments\assign 3-4\section 4\src\node.cpp
+
+1526044019 source:e:\faculty work\second year\second term\data structure\assignments\assign 3\a3_s4_20160313_20160310_20160117_20160321_g11_g11_g12_g12.zip\src\avlbst.cpp
+
+1526043844 source:e:\faculty work\second year\second term\data structure\assignments\assign 3\a3_s4_20160313_20160310_20160117_20160321_g11_g11_g12_g12.zip\src\node.cpp
+
